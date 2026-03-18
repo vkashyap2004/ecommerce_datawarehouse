@@ -1,7 +1,6 @@
-Here's a professional README for your project:
 
-```markdown
-# 🛒 E-Commerce Data Warehouse & Sales Analytics System
+
+#  E-Commerce Data Warehouse & Sales Analytics System
 
 A complete end-to-end **Data Engineering project** built using MySQL, Beekeeper Studio, Google Colab, and Python.
 
